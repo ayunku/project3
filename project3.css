@@ -1,0 +1,808 @@
+.mainback{
+    max-width: 100%;
+
+}
+.subback{
+    margin-left: 50px;
+    display: flex;
+}
+.logo{
+    display: flex;
+    max-width: 100%;
+}
+.beginingcompanylogo{
+    height: 35px;
+    width: 35px;
+    transform: rotate(-35deg);
+
+}
+.headerexp{
+    margin-left: 10px;
+    font-weight: 700;
+    margin-top: 5px;
+    color: rgb(19,3,55);
+}
+.home{
+    margin-left: 500px;
+    font-size: 12px;
+    font-weight: 700;
+}
+.portfolio{
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: 700;
+}
+.how{
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: 700;
+}
+.team{
+    margin-left: 30px;
+    font-size: 12px;
+    font-weight: 700;
+}
+.login{
+    margin-left: 200px;
+    font-size: 12px;
+    font-weight: 700;
+}
+.sign{
+    margin-left: 20px;
+    font-size: 10px;
+    font-weight: 700;
+}
+.creativesection{
+    margin-top: 50px;
+}
+.discuss{
+    font-weight: 600;
+    font-size: 15px;
+}
+.discusses{
+    margin-top: 30px;
+
+}
+.second{
+    margin-left: 50px;
+    position: relative;
+}
+.btn-group{
+    margin-top: 30px;
+}
+.btns{
+    background-color:rgb(5, 67, 224) ;
+    border: none;
+    border-radius: 5px;
+    height: 25px;
+    width: 80px;
+}
+.type{
+    font-size: 12px;
+    padding: 10px;
+    width: 400px;
+    padding-right: 270px;
+    border: none;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px 10px rgb(199, 199, 205,0.3);
+   /* position: relative;*/
+    
+}
+.signs{
+    background-color:rgb(5, 67, 224) ;
+    border: none;
+    width: 90px;
+    font-size: 12px;
+    border-radius: 5px;
+    position: absolute;
+    left: 307px;
+    top: 7px;
+    padding: 5px;
+}
+.creative{
+    color:rgb(19,3,55) ;
+    font-size: 40px;
+    font-weight: 600;
+}
+.creatives{
+    margin-top: 100px;
+}
+.svgimg{
+    height: 600px;
+    position: absolute;
+    left: 400px;
+    top: -110px;
+    width: 900px;
+    max-width: 100%;
+    
+}
+.manlaptop{
+    height: 500px;
+    position: absolute;
+    left: 700px;
+    top: 10px;
+    max-width: 100%;
+}
+.middlecompanylogo{
+    position: absolute;
+    left: 660px;
+    top: 10;
+    margin-top: -230px;
+    background-color: white;
+    height: 75px;
+    width: 75px;
+    border-radius: 10px;
+    transform: rotate(45deg);
+    max-width: 100%;
+}
+.middlecompanylogos{
+    width: 60px;
+    height: 60px;
+    transform: rotate(-90deg);
+    margin-top: 10px;
+    margin-left: 8px;
+}
+.phonescreen{
+    width: 500px;
+    position: relative;
+    left: 770px;
+    transform: rotate(45deg);
+    top: -270px;
+    height: 300px;
+    max-width: 100%;
+}
+.phonescreendiv{
+    position: relative;
+    width: 400px;
+    height: 300px;
+}
+.firsticons{
+    display: flex;
+    max-width: 800px;
+    margin: auto;
+    justify-content: center;
+    
+}
+.airbnblogo{
+    height: 20px;
+   /* margin-left: 300px;*/
+    max-width: 100%;
+}
+.airbnb{
+    color:rgb(236,117,139);
+    font-size: 15px;
+    margin-right: 5px;
+    margin-top: 10px;
+    max-width: 100%;
+}
+.hubspot{
+    margin-left: 50px;
+    margin-top: 10px;
+    display: flex;
+}
+.hubsp{
+    color:rgb(112, 115, 119) ;
+}
+.google{
+    margin-left: 50px;
+    margin-bottom: 15px;
+
+}
+.microsoft{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 500;
+
+}
+.microsofts{
+    margin-top: 2px;
+}
+.windows{
+    height: 20px;
+}
+.walmart{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.walmarts{
+    color: rgb(40, 57, 82);
+    font-weight: 700;
+    font-size: 14px;
+}
+.walmartlogo{
+    height: 20px;
+}
+.fedex{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.anew{
+    font-size: 40px;
+    font-weight: 400;
+    color:rgb(19,3,55) ;
+    margin-left: 100px;
+    
+}
+.anews{
+    margin-top: 50px;
+}
+.successful{
+    font-weight: 900;
+    margin-left: 200px;
+    margin-top: 50px;
+    
+}
+.createselection{
+    font-size: 10px;
+    font-weight: 800;
+    margin-left: 200px;
+}
+.brand{
+    font-weight: 900;
+    margin-left: 200px;
+}
+.various{
+    font-size: 10px;
+    font-weight: 800; 
+    margin-left: 200px;
+}
+.business_strategy{
+    font-weight: 900;
+    margin-left: 200px;
+}
+.business_s{
+    font-size: 10px;
+    font-weight: 800; 
+    margin-left: 200px;
+}
+.productimg{
+    position:absolute ;
+    top:15px;
+    left: 150px;
+}
+.successfulcontainer{
+    position: relative;
+    margin-bottom: 30px;
+}
+.brandcontainer{
+    position: relative;
+    margin-bottom: 30px;
+}
+.speakerimg{
+    position: absolute;
+    top:15px;
+    left: 150px;
+}
+.businesscontainer{
+    position: relative;
+}
+.scheduleimg{
+    position: absolute;
+    top:15px;
+    left: 150px;
+}
+.manwomanoffice{
+    height: 310px;
+    width: 250px;
+    border-radius: 15px;
+    transform: rotate(-10deg);
+    max-width: 100%;
+
+}
+.manwomanofficecontainer{
+    background-color: black;
+    height: 310px;
+    width: 250px;
+    border-radius: 15px;
+    top: 920px;
+    position: absolute;
+    left: 700px;
+    max-width: 100%;
+}
+.sided{
+    width: 180px;
+    height: 100px;
+    background-color: white;
+    position: absolute;
+    top: 1020px;
+    left: 850px;
+    border-radius: 10px;
+    box-shadow: 25px 25px 20px 20px rgb(234,234,234,0.3);
+}
+.weeklygrowth{
+    margin-left: 10px;
+    color:rgb(57,63,96) ;
+    font-weight: 700;
+    font-size: 12px;
+}
+.wave{
+    width:  150px;
+    height: 50px;
+    margin-left: 10px;
+}
+.redblue{
+    display: flex;
+}
+.redcircle{
+    margin-left: 10px;
+}
+.blueheart{
+    margin-left: 35px;
+}
+.textcolors{
+    color: rgb(6, 6, 85);
+    font-size: 10px;
+    margin-top: 5px;
+    font-weight: 800;
+}
+.servicesprovides{
+  /*  margin-left: 400px;*/
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(37,44,67);
+    text-align: center;
+    margin-right: 200px;
+    max-width: 100%;
+}
+.servicesprividessiblings{
+    font-size: 10px;
+    /*margin-left: 400px;*/
+    font-weight: 800;
+    text-align: center;
+    margin-right: 271px;
+}
+.maythe{
+    margin-right: 355px;
+}
+.cards{
+    display: grid ;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 15px;
+    column-gap: 15px;
+    padding: 100px 400px 100px 400px;
+}
+.carda{
+    height: 150px;
+    width: 150px;
+    background-color:white;
+    box-shadow: -250px 120px 80px 150px rgb(224,224,224,0.1);
+    border-radius: 5px;
+}
+.cardb{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: -10px 10px 10px 20px rgb(224,224,224,0.3);
+}
+.cardc{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: -10px 10px 10px 20px rgb(224,224,224,0.3);
+}
+.cardd{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: -250px 100px 80px 180px rgb(224,224,224);
+}
+.carde{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: -10px 10px 10px 20px rgb(224,224,224,0.3);
+}
+.cardf{
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    border-radius: 5px;
+}
+.cardafirstline{
+    margin-top: 10px;
+}
+.cardawords{
+    font-size: 6px;
+    margin-left: 20px;
+}
+.mobiledev{
+    margin-top:30px ;
+    font-size: 10px;
+    margin-left: 20px;
+    font-weight: 900;
+}
+.learnarrow{
+    display: flex;
+    margin-top: 20px;
+}
+.learnmore{
+    font-size: 8px;
+    font-weight: 800;
+    margin-left: 20px;
+    margin-top: 7px;
+
+}
+.larrow{
+    margin-left: 3px;
+}
+.bookmarkdiv{
+    margin-left: 20px;
+    margin-top: 10px;
+    box-shadow: 0px 5px 5px 5px rgb(224,224,224,0.4);
+    max-width: 20px;
+    border-radius: 5px;
+}
+.fivemore{
+    margin: 40px;
+}
+.five{
+    font-size: 10px;
+    margin-left: 15px;
+    color: white;
+    margin-top: 50px;
+}
+.bigarrow{
+    margin-left: 15px;
+    margin-top: 25px;
+}
+.multiplegrid{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    row-gap: 10px;
+    column-gap: 10px;
+}
+.firstbox{
+    height: 100px;
+    width: 130px;
+    background-color: blue;
+    border-radius: 5px;
+
+}
+.lastboxcolor{
+    background-color: rgb(199, 196, 196);
+}
+.furniture{
+    margin-top: 30px;
+    margin-left: 40px;
+    color: white;
+    font-size: 10px;
+}
+.furnitures{
+    margin-top: 20px;
+    margin-left: 40px;
+    color: white;
+    font-size: 10px;
+}
+.magicdesign{
+    color: white;
+    font-size: 10px;
+    margin-left:40px ;
+    
+}
+.plus{
+    margin-left: 50px;
+}
+.plussign{
+    margin-top: 40px;
+}
+.ridghtsidedgrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 10px;
+    column-gap: 10px;
+    margin-left: 320px;
+}
+.clearthisisgood{
+    display: flex;
+    margin-left: 150px;
+}
+.clearbtn{
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    width: 70px;
+    font-size: 10px;
+}
+.thisisgood{
+    margin-left: 10px;
+    font-size: 7px;
+    margin-top: 3px;
+}
+.wexcited{
+    margin-left: 150px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.leftsidedbottomflex{
+    display: flex;
+    margin-left: 150px;
+    font-size: 7px;
+    margin-top: 10px;
+}
+.leftsidedbottomflexmargins{
+    margin-left: 10px;
+
+}
+.ownerprofile{
+    margin-left: 150px;
+    display: flex;
+    margin-top: 50px;
+}
+.ownerprofilename{
+    margin-left: 5px;
+    font-size: 5px;
+    margin-top: 10px;
+}
+.lasttwogrids{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 10px;
+    margin-top: 50px;
+}
+.womanwithheadphone{
+    width: 120px;
+    height: 150px;
+}
+.womanwithheadphones{
+    box-shadow: -200px 200px 605px 105px rgb(224,224,224);
+}
+.almostlastflex{
+    display: flex;
+}
+.almostlastleftmargin{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.thiery{
+    font-size: 7px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.inputsbtns{
+    background-color: blue;
+    width: 70px;
+    border-radius: 15px;
+    border: none;
+    height: 20px;
+    font-size: 8px;
+    color: white;
+}
+.howtofind{
+    margin-top: 20px;
+    font-size: 12px;
+}
+.designing{
+    font-size: 12px;
+}
+.rightdown{
+    margin-left: 5px;
+    width: 10px;
+    margin-bottom: 10px;
+
+}
+.almostlastflexmargin{
+    margin-top: 15px;
+}
+.buhari{
+    font-size: 10px;
+    margin-top: 5px;
+    margin-left: 4px;
+}
+.inputbtnspink{
+    background-color: rgb(241, 106, 106);
+}
+.almostlastflexmarginfirst{
+    margin-left: 320px;
+}
+.almostlastflexmarginsecond{
+    margin-left: 50px;
+}
+.beforefootercontainer{
+    display: flex;
+    background-color:rgb(211, 211, 209) ;
+    margin-top: 70px;
+    max-width: 100%;
+    
+}
+.bullshit{
+    background-color:rgb(211, 211, 209) ;
+}
+.handsonkeyboard{
+    height: 250px;
+    box-shadow: -200px 200px 605px 10px rgb(147, 147, 146);
+    background-color:rgb(211, 211, 209) ;
+}
+.enoughcontainer{
+    margin-top: 30px;
+    margin-left: 200px;
+    background-color:rgb(211, 211, 209) ;
+}
+.enoughtalk{
+    font-size: 25px;
+    color: rgb(57,63,96);
+    font-weight: 500;
+}
+.buildsomething{
+    margin-left: 25px;
+    margin-left: 220px;
+}
+.sendaline{
+    margin-top: 15px;
+    margin-left: 180px;
+}
+.getstartedlastbtn{
+    margin-left: 325px;
+    margin-top: 30px;
+    font-size: 8px;
+    border: none;
+    background-color: blue;
+    width: 80px;
+    height: 25px;
+    color: white;
+    border-radius: 5px;
+}
+.footer{
+    height: 200px;
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+.firstfooterflex{
+    display: flex;
+}
+.firstfootergrid{
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.secondfootergrid{
+    display: flex;
+
+}
+.aboutcompanysupport{
+    margin-top: 50px;
+    font-size: 13px;
+    font-weight: 900;
+    color:rgb(19,3,55) ;
+}
+.aboutlist{
+    font-size: 10px;
+}
+.aboutmarginleft{
+    margin-left: 150px;
+}
+.aboutmarginleftside{
+    margin-left: 100px;
+}
+.exp{
+    font-weight: 800;
+    margin-left: 15px;
+}
+.footerlogo{
+    transform: rotate(-35deg);
+    margin-top: -5px;
+}
+@media (max-width: 1223px){
+    .home{
+        display: none;
+
+    }
+    .portfolio{
+        display: none;
+    }
+    .how{
+        display: none;
+    }
+    .team{
+        display: none;
+    }
+    .login{
+        margin-left: 300px;
+    }
+}
+@media ( max-width: 480px){
+    .logo{
+        display: flex;
+    }
+    .headerexp{
+        display: inline;
+    }
+}
+@media  ( max-width:590px){
+    .svgimg{
+        display: none;
+    }
+    .manlaptop{
+        display: none;
+    }
+    .middlecompanylogos{
+        display: none;
+    }
+    .phonescreen{
+        display: none;
+    }
+}
+@media ( max-width:840px){
+    .airbnb{
+        margin-left: 400px;
+    }
+}
+@media ( max-width:850px){
+    .airbnb{
+        display: flex;
+    }
+    .microsoft{
+        display: flex;
+    }
+    .walmart{
+        display: flex;
+    }
+}
+@media ( max-width:400px){
+    .manwomanofficecontainer{
+        top: 1100px;
+        left: 500px;
+    }
+    .sided{
+        top: 1200px;
+        left: 700px;
+    }
+}
+@media ( max-width:1600px){
+    .servicesprovides{
+        margin-left: 500px;
+    }
+    .servicesprividessiblings{
+        margin-left: 500px;
+    }
+}
+@media ( max-width:700px){
+    .cards{
+        justify-content: center;
+        
+    }
+}
+@media ( max-width:380px){
+    .cards{
+        justify-content: center;
+    }
+}
+@media ( max-width:1200px){
+    .multiplegrid{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .leftsidedgrid{
+        margin-top: 20px;
+    }
+}
+@media ( max-width:650px){
+    .lasttwogrids{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .almostlastflexmarginsecond{
+        margin-left: 300px;
+        margin-top: 10px;
+    }
+}
+
+@media( max-width:780px){
+    .beforefootercontainer{
+        max-width: 100%;
+
+    }
+}
+@media( max-width:630px){
+    .firstfootergrid{
+        max-width: 100%;
+        display: block;
+    }
+}
